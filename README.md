@@ -13,7 +13,7 @@
 * Inspiration from both https://youtu.be/o9oZGs7UycE?t=1m51s and https://www.assetstore.unity3d.com/en/#!/content/41508. 
 * NOTE: The first effect is triggered by a timer (after 1.5 seconds), but for more effect, please press “m” or “M” to see the magic effect.
 
-![Alt text](https://github.com/zhimibuwu/GPUProgramming/blob/master/demo.png?raw=true)
-![Alt text](https://github.com/zhimibuwu/GPUProgramming/blob/master/demo.png?raw=true)
-![Alt text](https://github.com/zhimibuwu/GPUProgramming/blob/master/demo.png?raw=true)
-![Alt text](https://github.com/zhimibuwu/GPUProgramming/blob/master/demo.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/zhimibuwu/GPUProgramming/master/ScreenShot0.png)
+![Alt text](https://raw.githubusercontent.com/zhimibuwu/GPUProgramming/master/ScreenShot1.png)
+![Alt text](https://raw.githubusercontent.com/zhimibuwu/GPUProgramming/master/ScreenShot2.png)
+![Alt text](https://raw.githubusercontent.com/zhimibuwu/GPUProgramming/master/ScreenShot3.png)
